@@ -14,7 +14,7 @@
 
 <p align="left">
   ✨ Creating bugs since 2023<br>
-  📚 I'm currently polishing my skills in JavaScript, Vue, Astro, ASP.NET, and backend technologies.<br>
+  📚 I'm currently polishing my skills in JavaScript, Vue, Nuxt, Astro, ASP.NET, NodeJS, Redis, MySQL.<br>
   🎯 Goals: Start working professionally as soon as possible and keep learning new technologies.<br>
   🎲 Fun fact: I love photography, soccer, and watching anime to relax and find inspiration.
 </p>
